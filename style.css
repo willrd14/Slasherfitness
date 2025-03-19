@@ -46,6 +46,59 @@
     top: 10px;
     border-radius: 50%;
 }
+/*--- End Header ---*/
+
+/*--- Body ---*/
+
+/* Binfo */
+.Binfo h1{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    left: 300px;
+    top: 170px;
+}
+
+.Binfo h3{
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+    position: relative;
+    left: 300px;
+    top: 140px;
+}
+
+.Binfo img{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 1150px;
+    top: -150px;
+    border-radius: 50%;
+}
+
+.Binfo a img{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: -5px;
+    top: 10px;
+    
+}
+
+.Binfo a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    right: 170px;
+    bottom: 330px;
+    background-color: #055AAF;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+/*--- End Body ---*/
 
 /* BODY Grandient */
 body {
