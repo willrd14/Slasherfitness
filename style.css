@@ -1,0 +1,58 @@
+/*--- Header ---*/
+
+/* Logo */
+.Logo {
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: 20px;
+}
+
+.Lname{
+    font-size: 25px;
+    color: white;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+
+.Lname{
+    position: relative;
+    top: 10px;
+}
+
+/* Navbar */
+.NBar {
+    display: block;
+    position: relative;
+    left: 1600px;
+    bottom: 60px;
+}
+
+.NBar a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.NBar a:hover {
+    font-weight: bold;
+}
+
+.NBar a img{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 10px;
+    border-radius: 50%;
+}
+
+/* BODY Grandient */
+body {
+    background: linear-gradient(to right, #1E2D3C, #010102);
+    /* Puedes ajustar los colores del degradado según tus preferencias */
+    overflow-x: hidden; /* Evita el desplazamiento horizontal */
+}
+
+
+
